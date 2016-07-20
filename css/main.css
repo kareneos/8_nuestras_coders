@@ -1,0 +1,58 @@
+/*encabezado y línea*/
+h1{
+ font-family: serif;
+}
+hr{
+	height: 3px;
+	width: 150px;
+	background-color: black;
+	margin:0%;
+}
+
+/*FOTOS*/
+img{
+	opacity: 0.7;
+}
+div{
+	position: absolute;
+}
+	/*primera fila*/
+#primerafila{
+	top:100px ;
+	bottom: 100px;
+	right: 100px;
+}
+.a{
+	left: 10px;
+}
+.b{
+	
+	left: 230px;
+}
+.c{
+	left: 450px;
+}
+
+	/*segunda fila*/
+#segundafila{
+	top:320px ;
+	bottom: 100px;
+	right: 100px;
+}
+.d{
+	left: 10px;
+}
+.e{
+	left: 230px;
+}
+.f{
+	left: 450px;
+}
+
+	/*texto*/
+p{
+	color: white;
+	position: absolute;
+	top:170px;
+	left: 90px;
+}
